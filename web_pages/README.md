@@ -1,9 +1,5 @@
 <ul>
-  <li>
-    index.html -> main page
-    
-    ![Main page](https://drive.google.com/file/d/1I2VJ6Z39QNSij1iBi9npK2SMWDmPTF2H/view?usp=sharing)
-  </li>
+  <li>index.html -> main page</li>
   <li>dbconnect.php -> info to connect to database</li>
   <li>node{1,2,3}.php -> pages with real-time information for each node</li>
   <li>nodes.php -> cumulative data for the nodes</li>
