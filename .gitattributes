@@ -1,0 +1,4 @@
+*.php linguist-detectable=false
+*.c linguist-detectable=true
+*.python linguist-detectable=true
+*.html linguist-detectable=false
