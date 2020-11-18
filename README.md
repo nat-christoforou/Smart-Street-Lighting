@@ -16,6 +16,6 @@
   </ol>
 </p>
 
-<p>As mentioned above, the information regarding the status of each node is stored in a database via the Raspberry Pi 3. In order to do that, we implemented a Python program that runs on the Raspberry Pi, which communicates serially with the Zolertia Re-Mote that is the central node, and reads the data and stores them in the database. So, by monitoring this database we can see the status of each node (lamp) any time we want.</p>
+<p>As mentioned above, the information regarding the status of each node is stored in a database via the Raspberry Pi 3. In order to do that, we implemented a Python program that runs on the Raspberry Pi, which communicates serially with the Zolertia Re-Mote that is the central node, and reads the data and stores them in the database. So, by monitoring this database we can see the status of each node (street light) any time we want.</p>
 
 <p>Finally, since the constant monitoring of the database on phpMyAdmin is not the ideal way to see the status of the nodes, we set up some web pages that are linked to the database. Through these web pages we can see the status of each node at any time, as well as some statistics about the energy consumption of each node.</p>
